@@ -1,0 +1,2 @@
+# ARIMA-model-sales-prediction
+This is to build the a predictive analysis model using ARIMA model for sales forecasting.
